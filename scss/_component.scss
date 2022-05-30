@@ -1,0 +1,28 @@
+.left-header1{
+    grid-area: 2/2/3/7;
+    color: $c2;
+    font-family: $f-exo;
+    
+
+}
+.left-header2{
+    grid-area: 3/2/4/7;
+    color: $c2;
+    font-family: $f-exo;
+    font-size: 40px;
+
+}
+.left-pg{
+    grid-area: 4/2/5/7;
+    color: white;
+    font-family: $f-exo;
+    margin-top: 20px;
+
+}
+.hw{
+    color: white;
+    
+}
+.sub-left{
+    animation: scalling 2s ease-in-out;
+}
